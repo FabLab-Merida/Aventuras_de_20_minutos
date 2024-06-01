@@ -2,7 +2,7 @@
 * CONTROLADOR DE VENTILADOR CON UN ENCODER
 */
 
-#include <Arduino.h>
+#include <Arduino.h> // INUTIL SI USAS ARDUINO IDE
 #include <FanController.h> // https://github.com/GiorgioAresu/FanController (1.0.6)
 #include "Encoder/Encoder.h" // https://github.com/PaulStoffregen/Encoder (1.4.4)
 
